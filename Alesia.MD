@@ -28,12 +28,11 @@ Every **manual** is divided into the following sections:
 7. Miscellaneous (including macro packages and conventions)
 8. System administration commands (usually only for root)
 9. Kernel routines [Non standard]
-
-Syntax:
-$ man [COMMAND NAME]
+ 
 
 ## Navigation in Man command:
-1. $ man *xxxx* ( In this example, manual pages of the command ‘xxxx‘ are simply returned.) 
+1. $ man *xxxx* ( In this example, manual pages of the command ‘xxxx‘ are simply returned.)  
+$ man [COMMAND NAME]
 
 2. Section-num: Since a manual is divided into multiple sections so this option is used to display only a specific section of a manual.  
 $man [SECTION-NUM] [COMMAND NAME]
