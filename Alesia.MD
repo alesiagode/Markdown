@@ -39,5 +39,5 @@ Navigation in Man command:
 $man [SECTION-NUM] [COMMAND NAME]
 
 3. -f option: One may not be able to remember the sections in which a command is present. So this option gives the section in which the given command is present.
-$ man -f [COMMAND NAME]
+$ man -f [COMMAND NAME].
 
