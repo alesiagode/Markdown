@@ -1,4 +1,4 @@
-# Man Comand.
+# Man Command.
 
 **Man command** in Linux is used to display the user manual of any command that we can run on
 the terminal. 
